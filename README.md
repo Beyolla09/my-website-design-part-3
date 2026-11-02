@@ -49,14 +49,7 @@ Flower images are displayed from Unsplash URLs and therefore require an internet
 ## How to view
 Open `index.html` in a modern browser. Internet access is required for the remote flower images and Google Fonts.
 
-## Student information
-Update these details before submitting:
-- Student: [Your full name]
-- Student number: [Your student number]
-- Course: [Your course]
-- Module: [Your module]
-- Lecturer: [Lecturer name]
-- Institution: [Institution name]
+
 
 
 ## Part 3: Functionality and SEO
